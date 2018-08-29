@@ -1,0 +1,5 @@
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Constants\bin\Debug\ExpenseTracker.Constants.pdb
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.csprojResolveAssemblyReference.cache
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Constants\obj\Debug\ExpenseTracker.Constants.pdb

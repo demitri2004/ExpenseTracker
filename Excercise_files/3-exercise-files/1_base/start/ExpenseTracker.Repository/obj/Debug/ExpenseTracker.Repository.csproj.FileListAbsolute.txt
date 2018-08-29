@@ -1,0 +1,11 @@
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb

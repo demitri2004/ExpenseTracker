@@ -1,0 +1,5 @@
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\Development2\ExpenseTracker\Excercise_files\3-exercise-files\1_base\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
